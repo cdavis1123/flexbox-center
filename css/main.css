@@ -127,6 +127,10 @@ body {
   justify-content: center;
   align-items: center;
 }
+p{
+  color:blue;
+  text-align: center;
+}
 
 
 
